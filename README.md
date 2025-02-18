@@ -19,9 +19,9 @@ The dataset is sourced from **[this repository](https://gist.github.com/armgille
 - **Matplotlib & Seaborn** for data visualization  
 
 ## 📂 **Project Files**  
-- 📜 `Pokemon_Data_Analysis.ipynb` – Jupyter Notebook with full analysis.  
-- 📄 `Pokemon_Analysis_Report.pdf` – Summary of findings.  
-- 📊 `pokemon.csv` – Dataset used for analysis.  
+- 📜 `pokemon.ipynb` – Jupyter Notebook with full analysis.  
+- 📄 `Comprehensive Data Analysis and Visualization of the Pokémon Dataset.pdf` – Summary of findings.  
+- 📊 `pokemon_data.csv` – Dataset used for analysis.  
 
 ## 🛠 **How to Run the Project?**  
 1. Clone this repository:  
